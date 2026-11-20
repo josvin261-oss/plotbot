@@ -1,0 +1,39 @@
+Item,Quantity,Description,Link,Already owned?,Est. cost USD (line total)
+Linear bearing 8x15x45mm,2,X/Y carriage bearings,https://geni.us/LinearBearing45mm,No,4
+Linear bearing 8x15x25mm,1,Pen carriage bearing,https://geni.us/LinearBearing25mm,No,2
+NEMA 17 stepper motor 12V,2,X and Y drive,https://geni.us/StepperMotor,No,18
+GT2 timing belt and pulleys,1,5 m belt + pulleys,https://geni.us/TimingBelt5m,No,6
+Micro servo (SG90),1,Pen lift,https://geni.us/MicroServo,No,2
+TMC2208 stepper driver,2,Quiet stepper drivers,https://geni.us/TMC2208,No,8
+Contact (limit) switch,2,X and Y homing,https://geni.us/ContactSwitch,No,2
+30mm 5V fan,1,Driver cooling,https://geni.us/30mm5vFan,No,3
+8mm chromed steel rod 35cm,2,Linear guides,https://geni.us/8mmChromedSteelRod,No,6
+8mm chromed steel rod 5.5cm,1,Pen guide,https://geni.us/8mmChromedSteelRod,No,1
+Linear rail 300mm with block,1,Y axis rail,https://geni.us/LinearRail300mm,No,8
+6mm idler wheel 3mm bore,1,Belt idler,https://geni.us/6mmIdlerWheel3mmBore,No,1
+22AWG electrical wire,1,Wiring,https://geni.us/22AWGWire,No,3
+12V power supply 2A+,1,Main power,https://geni.us/12VPowerSupply2A,No,8
+Wooden base panel ~36x42cm,1,Mounting board (e.g. IKEA LAMPLIG chopping board),https://www.ikea.com/in/en/search/?q=LAMPLIG,No,4
+M5 x 25mm screw,2,Fasteners,https://geni.us/NutsAndBolts,No,0.5
+M3 x 18mm screw,3,Fasteners,https://geni.us/NutsAndBolts,No,0.5
+M3 x 12mm screw,2,Fasteners,https://geni.us/NutsAndBolts,No,0.5
+M3 x 10mm screw,3,Fasteners,https://geni.us/NutsAndBolts,No,0.5
+M3 x 6mm screw,14,Fasteners,https://geni.us/NutsAndBolts,No,1
+M3 nut,9,Fasteners,https://geni.us/NutsAndBolts,No,0.5
+M5 nut,1,Fasteners,https://geni.us/NutsAndBolts,No,0.25
+Short wood screw,8,Mounting to base,https://geni.us/NutsAndBolts,No,0.5
+Arduino Uno (Elegoo),1,Main controller (runs firmware),https://geni.us/ArduinoUno,No,10
+Arduino CNC shield,1,Stepper driver shield,https://geni.us/ArduinoCNCShield,No,4
+Pen (any),1,Drawing tool,https://www.amazon.in/s?k=fineliner+pen,No,1
+3D printing filament (PLA/PETG),1,Already used for the printed parts below,n/a,Yes (already printed),0
+Y-Servo-Housing (3D printed),1,Printed part (STL in repo),cad/stl/Y-Servo-Housing.STL,Yes (already printed),0
+ServoArm (3D printed),1,Printed part (STL in repo),cad/stl/ServoArm.STL,Yes (already printed),0
+ElectronicsHousing-Lid (3D printed),1,Printed part (STL in repo),cad/stl/ElectronicsHousing-Lid.STL,Yes (already printed),0
+BaseEnd-Powered (3D printed),1,Printed part (STL in repo),cad/stl/BaseEnd-Powered.STL,Yes (already printed),0
+PenSlider (3D printed),1,Printed part (STL in repo),cad/stl/PenSlider.STL,Yes (already printed),0
+Y-Pen-End (3D printed),1,Printed part (STL in repo),cad/stl/Y-Pen-End.STL,Yes (already printed),0
+FingerDial (3D printed),1,Printed part (STL in repo),cad/stl/FingerDial.STL,Yes (already printed),0
+BaseEnd-Idle (3D printed),1,Printed part (STL in repo),cad/stl/BaseEnd-Idle.STL,Yes (already printed),0
+RaftMount (3D printed),1,Printed part (STL in repo),cad/stl/RaftMount.STL,Yes (already printed),0
+ElectronicsHousing (3D printed),1,Printed part (STL in repo),cad/stl/ElectronicsHousing.STL,Yes (already printed),0
+TOTAL still to buy (estimate),,Rough estimate; replace with real prices,,,95.25
